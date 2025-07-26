@@ -50,23 +50,24 @@ I enjoy combining theoretical research with practical robotics projects that mak
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-💻 Programming & Scripting
+## 💻 Programming & Scripting
 📊 Data Science & Visualization
 
-🔬 Modeling & Forecasting
+## 🔬 Modeling & Forecasting
 📊 STL & MIDAS Modeling
 📈 Time Series Analysis
 📉 Econometrics & Statistical Forecasting
 
 
-🧰 Tools & Platforms
-🌍 Domain Interests
-🛡️ Data Security & Privacy
-🔐 Blockchain & FinTech
-🤖 AI-Driven Automation
-📦 Industrial Systems & Robotics
-📊 Project Management Analytics
-🌱 Sustainable Business Technology
+## 🧰 Tools & Platforms  
+    🌍 Domain Interests  
+    🛡️ Data Security & Privacy  
+    🔐 Blockchain & FinTech  
+    🤖 AI-Driven Automation  
+    📦 Industrial Systems & Robotics  
+    📊 Project Management Analytics  
+    🌱 Sustainable Business Technology  
+
 ---
 
 ## 🚀 Featured Projects
