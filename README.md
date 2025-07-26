@@ -59,7 +59,7 @@ Developing a system that integrates image processing with robotics for automatio
 Interactive dashboard for ROI and NPV financial analysis of automation projects using Python and Streamlit.
 
 ### [Supply Chain Blockchain Tracker](https://github.com/SouravMukharjee/supply-chain-blockchain)  
-A prototype blockchain implementation for tracking and transparency in supply chain logistics.
+A prototype blockchain implementation for tracking and transparency in supply chain logistics. 
 
 ---
 
