@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sourav Mukharjee
+# Hi there 👋, I'm Sourav Mukharjee PhD Researcher | Data Engineer | FinTech & AI Enthusiast"
 
 <!--
 **SouravMukharjee/SouravMukharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,13 +20,8 @@ Advanced AI/ML algorithms, industrial energy sustainability techniques and Finan
 -->
 
 ## 👯 I’m looking to collaborate on  
-Open-source AI projects, robotics automation tools, and data analytics solutions for FinTech.
+I am looking to collaborate on open-source AI projects, robotics automation tools, and data analytics solutions for FinTech. In addition, I am also seeking help to increase my knowledge in AI, machine learning, blockchain, and scalable distributed systems. Feel free to ask me about FinTech data engineering, AI-driven automation, Python programming, and industrial analytics.
 
-## 🤔 I’m looking for help with  
-Expanding my AI, ML and blockchain knowledge and implementing scalable distributed systems.
-
-## 💬 Ask me about  
-Fintech Data engineering, AI-driven automation, Python programming, and industrial analytics.
 
 
 I enjoy combining theoretical research with practical robotics projects that make a real difference in automation.
@@ -49,6 +44,7 @@ I enjoy combining theoretical research with practical robotics projects that mak
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+
 
 ## 💻 Programming & Scripting
 📊 Data Science & Visualization
