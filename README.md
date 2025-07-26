@@ -6,22 +6,30 @@
 -->
 ## 👨‍💻 About Me
 
-🔭 I am a Data Engineer and PhD researcher with a strong foundation in Industrial Systems Analytics, image processing, robotics, and AI. I enjoy combining academic research with real-world applications, focusing on automation and machine learning.
+🔭 Sourav Mukharjee is a data engineer and PhD researcher in Business Economics at the University of Vaasa, focusing on applying machine learning and statistical analysis to optimize financial and industrial operations. With a background in Industrial Systems Analytics and Computer Science, he combines academic research with hands-on experience in Python, MySQL, image processing, and data visualization. His current projects involve robotics and automation. Sourav is also interested in cryptography, project management, and sustainable energy, and values collaboration, technical accuracy, and work-life balance.
 
+- 🔬 Doctoral Research (PhD in Financial Technology)
+At the University of Vaasa, I’m developing a novel STL-MIDAS framework that integrates Seasonal-Trend Decomposition (STL) into the MIDAS model to enhance analysis of mixed-frequency oil price data. My work focuses on machine learning-based financial forecasting, real-time investment modeling, and multi-frequency trend analysis. I aim to bridge academic research and practical finance by designing predictive systems that support smarter, data-driven decision-making across capital markets and industrial systems. 
 - 🎓 Master's in Industrial Systems Analytics from the University of Vaasa  
 - 💡 Currently working on image processing-based robotics projects using Python and AI  
-- 🔍 Interests include cryptographic algorithms, project management, and industrial energy sustainability
-
+- 🔍 Interests include 
+                    • Machine Learning in Financial Technology (FinTech)
+                    • Blockchain and Cryptographic Systems in Capital Markets
+                    • AI-Powered Automation in Industrial Systems
+                    • Image Processing for Smart Robotics
+                    • Data Security and Privacy in Financial Infrastructure
+                    • Project Management Analytics & Risk Forecasting
+                    • Sustainable, Data-Driven Business Decision-Making
 
 
 ## 🌱 I’m currently foucsuing on  
-Advanced AI/ML algorithms, cryptography, industrial energy sustainability and Financial Technology techniques.
+Advanced AI/ML algorithms, industrial energy sustainability techniques and Financial Technology .
 
 ## 👯 I’m looking to collaborate on  
 Open-source AI projects, robotics automation tools, and data analytics solutions for FinTech.
 
 ## 🤔 I’m looking for help with  
-Expanding my blockchain knowledge and implementing scalable distributed systems.
+Expanding my AI, ML and blockchain knowledge and implementing scalable distributed systems.
 
 ## 💬 Ask me about  
 Fintech Data engineering, AI-driven automation, Python programming, and industrial analytics.
