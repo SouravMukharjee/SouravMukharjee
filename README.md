@@ -6,24 +6,18 @@
 -->
 ## 👨‍💻 About Me
 
-🔭 Sourav Mukharjee is a data engineer and PhD researcher in Business Economics at the University of Vaasa, focusing on applying machine learning and statistical analysis to optimize financial and industrial operations. With a background in Industrial Systems Analytics and Computer Science, he combines academic research with hands-on experience in Python, MySQL, image processing, and data visualization. His current projects involve robotics and automation. Sourav is also interested in cryptography, project management, and sustainable energy, and values collaboration, technical accuracy, and work-life balance.
+🔭 Sourav Mukharjee is a data engineer and PhD researcher in Business Economics at the University of Vaasa, focusing on applying machine learning and statistical analysis to optimize financial and industrial operations. With a background in Industrial Systems Analytics and Computer Science, he combines academic research with hands-on experience in Python, MySQL, image processing, and data visualization. 
 
+- 🎓 Master's in Industrial Systems Analytics from the University of Vaasa, **Finland** 
 - 🔬 Doctoral Research (PhD in Financial Technology)
-At the University of Vaasa, I’m developing a novel STL-MIDAS framework that integrates Seasonal-Trend Decomposition (STL) into the MIDAS model to enhance analysis of mixed-frequency oil price data. My work focuses on machine learning-based financial forecasting, real-time investment modeling, and multi-frequency trend analysis. I aim to bridge academic research and practical finance by designing predictive systems that support smarter, data-driven decision-making across capital markets and industrial systems. 
-- 🎓 Master's in Industrial Systems Analytics from the University of Vaasa  
-- 💡 Currently working on image processing-based robotics projects using Python and AI  
-- 🔍 Interests include 
-                    • Machine Learning in Financial Technology (FinTech)
-                    • Blockchain and Cryptographic Systems in Capital Markets
-                    • AI-Powered Automation in Industrial Systems
-                    • Image Processing for Smart Robotics
-                    • Data Security and Privacy in Financial Infrastructure
-                    • Project Management Analytics & Risk Forecasting
-                    • Sustainable, Data-Driven Business Decision-Making
+At the University of Vaasa, I’m developing a novel STL-MIDAS framework that integrates Seasonal-Trend Decomposition (STL) into the MIDAS model to enhance analysis of mixed-frequency oil price data. My work focuses on machine learning-based financial forecasting, real-time investment modeling, and multi-frequency trend analysis.  
+- 💡 Currently working on ML, Python and AI to bridge academic research and practical finance by designing predictive systems that support smarter, data-driven decision-making across capital markets and industrial systems. 
+- 🔍 Interests include Machine Learning in Financial Technology (FinTech), Blockchain and Cryptographic Systems in Capital Markets, AI-Powered Automation in Industrial Systems, Image Processing for Smart Robotics, Data Security and Privacy in Financial Infrastructure, Project Management Analytics & Risk Forecasting, Sustainable, Data-Driven Business Decision-Making
 
-
+<!--
 ## 🌱 I’m currently foucsuing on  
 Advanced AI/ML algorithms, industrial energy sustainability techniques and Financial Technology .
+-->
 
 ## 👯 I’m looking to collaborate on  
 Open-source AI projects, robotics automation tools, and data analytics solutions for FinTech.
@@ -56,6 +50,39 @@ I enjoy combining theoretical research with practical robotics projects that mak
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
+
+🛠️ Skills & Tools
+Languages & Programming
+
+
+
+
+
+
+Data Science & Analytics
+
+
+
+
+
+
+
+
+Econometrics & Modeling
+📊 STL & MIDAS Modeling
+📈 Time Series Analysis
+📉 Econometrics & Statistical Forecasting
+
+Tools & Platforms
+
+
+
+
+Domain Knowledge
+🛡️ Data Security & Privacy
+🔐 Blockchain & FinTech
+🤖 AI-Driven Automation
+📊 Project Management Analytics
 ---
 
 ## 🚀 Featured Projects
