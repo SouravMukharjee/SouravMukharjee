@@ -4,9 +4,8 @@
 **SouravMukharjee/SouravMukharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SouravMukharjee.SouravMukharjee)
 -->
-## 👨‍💻 About Me
+## 👨‍💻 PhD Researcher | Data Engineer | FinTech & AI Enthusiast
 
-🔬 PhD Researcher | Data Engineer | FinTech & AI Enthusiast <br>
 🔭 Sourav Mukharjee is a data engineer and PhD researcher in Business Economics at the University of Vaasa, focusing on applying machine learning and statistical analysis to optimize financial and industrial operations. With a background in Industrial Systems Analytics and Computer Science, he combines academic research with hands-on experience in Python, MySQL, image processing, and data visualization. 
 
 - 🎓 Master's in Industrial Systems Analytics from the University of Vaasa, **Finland** 
