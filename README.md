@@ -12,29 +12,19 @@
 - 💡 Currently working on image processing-based robotics projects using Python and AI  
 - 🔍 Interests include cryptographic algorithms, project management, and industrial energy sustainability
 
-Check out my portfolio: [souravfin.wordpress.com](https://souravfin.wordpress.com/)
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 
-
-## 🌱 I’m currently learning  
-Advanced AI/ML algorithms, cryptography, and industrial energy sustainability techniques.
+## 🌱 I’m currently foucsuing on  
+Advanced AI/ML algorithms, cryptography, industrial energy sustainability and Financial Technology techniques.
 
 ## 👯 I’m looking to collaborate on  
-Open-source AI projects, robotics automation tools, and data analytics solutions for industrial systems.
+Open-source AI projects, robotics automation tools, and data analytics solutions for FinTech.
 
 ## 🤔 I’m looking for help with  
 Expanding my blockchain knowledge and implementing scalable distributed systems.
 
 ## 💬 Ask me about  
-Data engineering, AI-driven automation, Python programming, and industrial analytics.
+Fintech Data engineering, AI-driven automation, Python programming, and industrial analytics.
 
 
 I enjoy combining theoretical research with practical robotics projects that make a real difference in automation.
@@ -45,13 +35,6 @@ I enjoy combining theoretical research with practical robotics projects that mak
 
 ![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouravMukharjee&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravMukharjee&layout=compact&theme=radical)
-
----
-
-_“Research is creating new knowledge.” – Neil Armstrong_
----
-
-
 
 ---
 
@@ -91,7 +74,7 @@ A prototype blockchain implementation for tracking and transparency in supply ch
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-mukharjee/)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=wordpress&logoColor=white)](https://souravfin.wordpress.com/)  
-✉️ Email: sourav.mukherjee@example.com
+✉️ Email: x8977494@student.uwasa.fi
 
 ---
 
