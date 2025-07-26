@@ -3,7 +3,7 @@
 <!--
 **SouravMukharjee/SouravMukharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SouravMukharjee.SouravMukharjee)
-
+-->
 ## 👨‍💻 About Me
 
 🔭 I am a Data Engineer and PhD researcher with a strong foundation in Industrial Systems Analytics, image processing, robotics, and AI. I enjoy combining academic research with real-world applications, focusing on automation and machine learning.
