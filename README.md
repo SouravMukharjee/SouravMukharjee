@@ -6,11 +6,11 @@
 -->
 ## 👨‍💻 PhD Researcher | Data Engineer | FinTech & AI Enthusiast
 
-🔭 Sourav Mukharjee is a data engineer and PhD researcher in Business Economics at the University of Vaasa, focusing on applying machine learning and statistical analysis to optimize financial and industrial operations. With a background in Industrial Systems Analytics and Computer Science, he combines academic research with hands-on experience in Python, MySQL, image processing, and data visualization. 
+🔭 I am a data engineer and PhD researcher in Business Economics at the University of Vaasa, focusing on applying machine learning and statistical analysis to optimize financial and industrial operations. With a background in Industrial Systems Analytics and Computer Science, I combine academic research with hands-on experience in Python, ML, MySQL, image processing, and data visualization. 
 
 - 🎓 Master's in Industrial Systems Analytics from the University of Vaasa, **Finland** 
 - 🔬 Doctoral Research (PhD in Financial Technology)
-At the University of Vaasa, I’m developing a novel STL-MIDAS framework that integrates Seasonal-Trend Decomposition (STL) into the MIDAS model to enhance analysis of mixed-frequency oil price data. My work focuses on machine learning-based financial forecasting, real-time investment modeling, and multi-frequency trend analysis.  
+At the University of Vaasa, I am developing a novel STL-MIDAS framework that integrates Seasonal-Trend Decomposition (STL) into the MIDAS-LASSO model to enhance analysis of mixed-frequency oil price data. My work focuses on machine learning-based financial forecasting, real-time investment modeling, and multi-frequency trend analysis.  
 - 💡 Currently working on ML, Python and AI to bridge academic research and practical finance by designing predictive systems that support smarter, data-driven decision-making across capital markets and industrial systems. 
 - 🔍 Interests include Machine Learning in Financial Technology (FinTech), Blockchain and Cryptographic Systems in Capital Markets, AI-Powered Automation in Industrial Systems, Image Processing for Smart Robotics, Data Security and Privacy in Financial Infrastructure, Project Management Analytics & Risk Forecasting, Sustainable, Data-Driven Business Decision-Making
 
