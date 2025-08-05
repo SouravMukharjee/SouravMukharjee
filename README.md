@@ -79,11 +79,11 @@ A prototype blockchain implementation for tracking and transparency in supply ch
 
 ---
 
-## 📊 GitHub Stats
+<!-- ## 📊 GitHub Stats
 
 ![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouravMukharjee&show_icons=true&count_private=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravMukharjee&layout=compact&theme=radical)
-
+-->
 ---
 
 ## 📫 Connect with Me
