@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Sourav Mukharjee 
+# Hi there 👋 Welcome 
 
 <!--
 **SouravMukharjee/SouravMukharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,20 +25,25 @@
 
 ## 🛠️ Skills & Tools
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=scikitlearn&logoColor=white)  
-![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF7F50?style=flat&logo=tableau&logoColor=white)  
-![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)  
+![Blockchain](https://img.shields.io/badge/-Blockchain-000000?style=flat&logo=bitcoin&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) 
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F61?style=flat&logo=scikitlearn&logoColor=white) 
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-FF7F50?style=flat&logo=tableau&logoColor=white) 
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=microsoft-powerbi&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) 
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Time Series](https://img.shields.io/badge/-Time_Series-9C27B0?style=flat)
+![Econometrics](https://img.shields.io/badge/-Econometrics-009688?style=flat)
+![GARCH](https://img.shields.io/badge/-GARCH-3F51B5?style=flat)
+![ARIMA](https://img.shields.io/badge/-ARIMA-795548?style=flat)
 
 
-## 💻 Programming & Scripting : 
-📊 Data Science & Visualization
-📊 MIDAS Modeling
-📈 Time Series Analysis
-📉 Econometrics & Statistical Forecasting
+## 🧩 Programming & Scripting : 
+🖥️ Data Science & Visualization
+🔬 Statistical Modeling
+⏱️ Time Series Analysis
+📐 Econometrics & Financial Forecasting
 
 ---
 
@@ -62,13 +67,23 @@ A prototype blockchain implementation for tracking and transparency in supply ch
 -->
 ---
 
-## 📫 Connect with Me
+## 📫 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-mukharjee/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=wordpress&logoColor=white)](https://souravmukharjee.github.io/)
-✉️ Email: souravmu@uwasa.fi
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-mukharjee/) 
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=github&logoColor=white)](https://souravmukharjee.github.io/) 
+[![ORCID](https://img.shields.io/badge/-ORCID-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0000-4727-711X)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/SouravMukharjee) 
 
 ---
 
- “Research is creating new knowledge.” – _Neil Armstrong_
+### 📧 Email : 
+    souravmu@uwasa.fi
+    souravuap132@gmail.com
 
+### 📍 Location  
+    Vaasa–65100, Finland 🇫🇮  
+
+
+---
+[SOURAV MUKHARJEE](https://www.uwasa.fi/fi/henkilo/2962537)
+ 
