@@ -4,37 +4,24 @@
 **SouravMukharjee/SouravMukharjee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=SouravMukharjee.SouravMukharjee)
 -->
-## 👨‍💻 PhD Researcher | Data Engineer | FinTech & AI Enthusiast
+## 👨‍💻 Doctoral Researcher | Data Engineer | FinTech & AI Enthusiast
 
-🔭 I am a data engineer and PhD researcher in Business Economics at the University of Vaasa, focusing on applying machine learning and statistical analysis to optimize financial and industrial operations. With a background in Industrial Systems Analytics and Computer Science, I combine academic research with hands-on experience in Python, ML, MySQL, image processing, and data visualization. 
+🔭 PhD researcher in Financial Technology at the University of Vaasa; Working at the intersection of machine learning, econometrics, and financial forecasting.
 
-- 🔬 Doctoral Research (PhD in Financial Technology)
-At the University of Vaasa, I am developing a novel STL-MIDAS framework that integrates Seasonal-Trend Decomposition (STL) into the MIDAS-LASSO model to enhance analysis of mixed-frequency oil price data. My work focuses on machine learning-based financial forecasting, real-time investment modeling, and multi-frequency trend analysis.  
-- 💡 Currently working on ML, Python and AI to bridge academic research and practical finance by designing predictive systems that support smarter, data-driven decision-making across capital markets and industrial systems. 
-- 🔍 Interests include Machine Learning in Financial Technology (FinTech), Blockchain and Cryptographic Systems in Capital Markets, AI-Powered Automation in Industrial Systems, Image Processing for Smart Robotics, Data Security and Privacy in Financial Infrastructure, Project Management Analytics & Risk Forecasting, Sustainable, Data-Driven Business Decision-Making
-- 🎓 Master's in Industrial Systems Analytics from the University of Vaasa, **Finland** 
+💡 Currently working on ML, Python and AI to bridge academic research and practical finance.
 
+🔍 **Interests**
 
-<!--
-## 🌱 I’m currently foucsuing on  
-Advanced AI/ML algorithms, industrial energy sustainability techniques and Financial Technology .
--->
-
-## 👯 I’m looking to collaborate on  
-I am looking to collaborate on open-source AI projects, robotics automation tools, and data analytics solutions for FinTech. In addition, I am also seeking help to increase my knowledge in AI, machine learning, blockchain, and scalable distributed systems. Feel free to ask me about FinTech data engineering, AI-driven automation, Python programming, and industrial analytics.
+    🤖 AI & Machine Learning in Finance
+    🔐 Blockchain & Financial Infrastructure
+    📈 Time Series & Econometrics
+    🏭 Industrial Automation & Robotics
+    🌱 Data-Driven & Sustainable Busines
 
 
+🤝 **Collaboration :**
 
-I enjoy combining theoretical research with practical robotics projects that make a real difference in automation.
-
----
-
-## 📊 GitHub Stats
-
-![Sourav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SouravMukharjee&show_icons=true&count_private=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SouravMukharjee&layout=compact&theme=radical)
-
----
+     Open to AI, FinTech, Robotics, and Data Engineering projects. Feel free to reach out if you’re working on ML systems, automation tools, or financial analytics.
 
 ## 🛠️ Skills & Tools
 
@@ -47,22 +34,11 @@ I enjoy combining theoretical research with practical robotics projects that mak
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
-## 💻 Programming & Scripting
+## 💻 Programming & Scripting : 
 📊 Data Science & Visualization
-
-## 🔬 Modeling & Forecasting
-📊 STL & MIDAS Modeling
+📊 MIDAS Modeling
 📈 Time Series Analysis
 📉 Econometrics & Statistical Forecasting
-
-
-## 🧰 Tools & Platforms  
-    🛡️ Data Security & Privacy  
-    🔐 Blockchain & FinTech  
-    🤖 AI-Driven Automation  
-    📦 Industrial Systems & Robotics  
-    📊 Project Management Analytics  
-    🌱 Sustainable Business Technology  
 
 ---
 
@@ -89,10 +65,10 @@ A prototype blockchain implementation for tracking and transparency in supply ch
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourav-mukharjee/)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=wordpress&logoColor=white)](https://souravfin.wordpress.com/)  
-✉️ Email: x8977494@student.uwasa.fi
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=wordpress&logoColor=white)](https://souravmukharjee.github.io/)
+✉️ Email: souravmu@uwasa.fi
 
 ---
 
-_“Research is creating new knowledge.” – Neil Armstrong_
+ “Research is creating new knowledge.” – _Neil Armstrong_
 
